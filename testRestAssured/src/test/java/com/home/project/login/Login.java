@@ -71,7 +71,7 @@ public class Login {
 	
 	@Test(groups="resetPassword2")
 	public void resetPassword2() {
-		System.out.println("resetPassword 2 ....");
+		System.out.println("resetPassword 2 ");
 	}
 	
 	
